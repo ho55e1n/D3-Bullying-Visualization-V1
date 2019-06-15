@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://kit.fontawesome.com/1921e8da84.js"></script>
+
+    <title>Slide2</title>
+    <style>
+      rect.bar {
+        fill: steelblue;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <nav class="navbar navbar-light bg-dark">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="navbar-brand text-white" href="index.html">Home</a>
+          </li>
+        </ul>
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active text-white">Slide 2</li>
+        </ul>
+        <nav class="navbar navbar-light bg-dark">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="navbar-brand text-white" href="slide1.html">
+                <i class="fas fa-chevron-left"></i>
+              </a>
+              <a class="navbar-brand text-white" href="slide3.html">
+                <i class="fas fa-chevron-right"></i>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </nav>
+      <div class="jumbotron">
+        <div>
+          <h4 class="text">
+            Overall bullying and its breakdrown in the past 13 years across
+            Victoria Schools.
+            <div class="text-muted text-center">
+                <p >
+                  Click on each bin of histogram to reveal the breakdown of that year.
+                </p>
+              </div>
+          </h4>
+      
+          
+          <h6>Interesting facts:</h6>
+          <ul>
+            <li id="f1"><a href="#" onclick="revealFact1('1');">Fact 1</a></li>
+            <li id="f2"><a href="#" onclick="revealFact2('2');">Fact 2</a></li>
+            <li id="f3"><a href="#" onclick="revealFact3('3');">Fact 3</a></li>
+          </ul>
+        </div>
+
+
+        <div class="canva" id="chart"></div>
+        
+        <hr>
+        <div>
+            <svg id="chart2" width="650" height="400"></svg>
+      
+            Select year:
+            <select id="year"></select>
+      
+            <input type="checkbox" id="sort" />
+            Sort Category
+          </div>
+      </div>
+    </div>
+  </div>
+
+    <script src="slide2.js"></script>
+  </body>
+</html>

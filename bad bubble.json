@@ -1,0 +1,61 @@
+[
+  {
+    "children": [
+      {
+        "name": "East Gippsland",
+        "Count": 16,
+        "Grade": "Primary & Secondary",
+        "Area type": "Shire"
+      },
+      {
+        "name": "Central Goldfields",
+        "Count": 11,
+        "Grade": "Secondary",
+        "Area type": "Shire"
+      },
+      {
+        "name": "Mitchell",
+        "Count": 11,
+        "Grade": "Primary",
+        "Area type": "Shire"
+      },
+      {
+        "name": "Benalla ",
+        "Count": 10,
+        "Grade": "Secondary",
+        "Area type": "Rural City"
+      },
+      {
+        "name": "West Wimmera",
+        "Count": 9,
+        "Grade": "Primary",
+        "Area type": "Shire"
+      },
+      {
+        "name": "Loddon",
+        "Count": 9,
+        "Grade": "Primary",
+        "Area type": "Shire"
+      },
+      {
+        "name": "Towong",
+        "Count": 8,
+        "Grade": "Primary",
+        "Area type": "Shire"
+      },
+
+      {
+        "name": "Colac-Otway",
+        "Count": 8,
+        "Grade": "Secondary",
+        "Area type": "Shire"
+      },
+      {
+        "name": "Moorabool",
+        "Count": 8,
+        "Grade": "Secondary",
+        "Area type": "Shire"
+      }
+    ]
+  }
+]

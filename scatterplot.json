@@ -1,0 +1,377 @@
+[
+    {
+        "Council": "Alpine",
+        "Bullying": "16.90%",
+        "Connected": "62.80%"
+    },
+    {
+        "Council": "Ararat",
+        "Bullying": "33.00%",
+        "Connected": "52.40%"
+    },
+    {
+        "Council": "Ballarat",
+        "Bullying": "24.70%",
+        "Connected": "61.00%"
+    },
+    {
+        "Council": "Banyule",
+        "Bullying": "17.30%",
+        "Connected": "65.10%"
+    },
+    {
+        "Council": "Bass Coast",
+        "Bullying": "22.60%",
+        "Connected": "68.50%"
+    },
+    {
+        "Council": "Baw Baw",
+        "Bullying": "20.60%",
+        "Connected": "61.60%"
+    },
+    {
+        "Council": "Bayside",
+        "Bullying": "14.70%",
+        "Connected": "68.00%"
+    },
+    {
+        "Council": "Benalla",
+        "Bullying": "30.80%",
+        "Connected": "38.90%"
+    },
+    {
+        "Council": "Boroondara",
+        "Bullying": "14.40%",
+        "Connected": "67.40%"
+    },
+    {
+        "Council": "Brimbank",
+        "Bullying": "17.30%",
+        "Connected": "59.00%"
+    },
+    {
+        "Council": "Buloke",
+        "Bullying": "10.30%",
+        "Connected": "78.60%"
+    },
+    {
+        "Council": "Campaspe",
+        "Bullying": "23.30%",
+        "Connected": "62.90%"
+    },
+    {
+        "Council": "Cardinia",
+        "Bullying": "19.70%",
+        "Connected": "54.00%"
+    },
+    {
+        "Council": "Casey",
+        "Bullying": "18.50%",
+        "Connected": "61.20%"
+    },
+    {
+        "Council": "Central Goldfields",
+        "Bullying": "23.90%",
+        "Connected": "46.00%"
+    },
+    {
+        "Council": "Colac-Otway",
+        "Bullying": "25.50%",
+        "Connected": "55.70%"
+    },
+    {
+        "Council": "Corangamite",
+        "Bullying": "21.10%",
+        "Connected": "66.10%"
+    },
+    {
+        "Council": "Darebin",
+        "Bullying": "17.10%",
+        "Connected": "69.10%"
+    },
+    {
+        "Council": "East Gippsland",
+        "Bullying": "29.40%",
+        "Connected": "51.00%"
+    },
+    {
+        "Council": "Frankston",
+        "Bullying": "19.10%",
+        "Connected": "61.40%"
+    },
+    {
+        "Council": "Gannawarra",
+        "Bullying": "19.60%",
+        "Connected": "64.20%"
+    },
+    {
+        "Council": "Glen Eira",
+        "Bullying": "13.90%",
+        "Connected": "72.70%"
+    },
+    {
+        "Council": "Glenelg",
+        "Bullying": "20.70%",
+        "Connected": "62.00%"
+    },
+    {
+        "Council": "Greater Bendigo",
+        "Bullying": "24.00%",
+        "Connected": "53.80%"
+    },
+    {
+        "Council": "Greater Dandenong",
+        "Bullying": "16.60%",
+        "Connected": "62.90%"
+    },
+    {
+        "Council": "Greater Geelong",
+        "Bullying": "19.00%",
+        "Connected": "63.00%"
+    },
+    {
+        "Council": "Greater Shepparton",
+        "Bullying": "25.50%",
+        "Connected": "59.80%"
+    },
+    {
+        "Council": "Hepburn",
+        "Bullying": "25.20%",
+        "Connected": "51.90%"
+    },
+    {
+        "Council": "Hindmarsh",
+        "Bullying": "12.30%",
+        "Connected": "79.90%"
+    },
+    {
+        "Council": "Hobsons Bay",
+        "Bullying": "16.00%",
+        "Connected": "69.30%"
+    },
+    {
+        "Council": "Horsham",
+        "Bullying": "24.40%",
+        "Connected": "56.80%"
+    },
+    {
+        "Council": "Hume",
+        "Bullying": "20.00%",
+        "Connected": "58.30%"
+    },
+    {
+        "Council": "Indigo",
+        "Bullying": "19.60%",
+        "Connected": "68.30%"
+    },
+    {
+        "Council": "Kingston",
+        "Bullying": "11.60%",
+        "Connected": "68.30%"
+    },
+    {
+        "Council": "Knox",
+        "Bullying": "20.60%",
+        "Connected": "58.20%"
+    },
+    {
+        "Council": "Latrobe",
+        "Bullying": "26.60%",
+        "Connected": "47.50%"
+    },
+    {
+        "Council": "Loddon",
+        "Bullying": "21.80%",
+        "Connected": "65.80%"
+    },
+    {
+        "Council": "Macedon Ranges",
+        "Bullying": "19.30%",
+        "Connected": "64.30%"
+    },
+    {
+        "Council": "Manningham",
+        "Bullying": "18.80%",
+        "Connected": "63.40%"
+    },
+    {
+        "Council": "Mansfield",
+        "Bullying": "18.40%",
+        "Connected": "63.10%"
+    },
+    {
+        "Council": "Maribyrnong",
+        "Bullying": "12.60%",
+        "Connected": "68.40%"
+    },
+    {
+        "Council": "Maroondah",
+        "Bullying": "16.30%",
+        "Connected": "63.80%"
+    },
+    {
+        "Council": "Melbourne",
+        "Bullying": "15.40%",
+        "Connected": "71.80%"
+    },
+    {
+        "Council": "Melton",
+        "Bullying": "18.20%",
+        "Connected": "57.90%"
+    },
+    {
+        "Council": "Mildura",
+        "Bullying": "22.30%",
+        "Connected": "55.90%"
+    },
+    {
+        "Council": "Mitchell",
+        "Bullying": "27.40%",
+        "Connected": "51.50%"
+    },
+    {
+        "Council": "Moira",
+        "Bullying": "20.10%",
+        "Connected": "63.30%"
+    },
+    {
+        "Council": "Monash",
+        "Bullying": "13.50%",
+        "Connected": "63.70%"
+    },
+    {
+        "Council": "Moonee Valley",
+        "Bullying": "14.50%",
+        "Connected": "63.30%"
+    },
+    {
+        "Council": "Moorabool",
+        "Bullying": "27.30%",
+        "Connected": "49.60%"
+    },
+    {
+        "Council": "Moreland",
+        "Bullying": "17.60%",
+        "Connected": "54.40%"
+    },
+    {
+        "Council": "Mount Alexander",
+        "Bullying": "15.70%",
+        "Connected": "63.30%"
+    },
+    {
+        "Council": "Moyne",
+        "Bullying": "12.00%",
+        "Connected": "69.60%"
+    },
+    {
+        "Council": "Murrindindi",
+        "Bullying": "6.70%",
+        "Connected": "75.40%"
+    },
+    {
+        "Council": "Nillumbik",
+        "Bullying": "18.20%",
+        "Connected": "66.80%"
+    },
+    {
+        "Council": "Northern Grampians",
+        "Bullying": "26.90%",
+        "Connected": "50.70%"
+    },
+    {
+        "Council": "Port Phillip",
+        "Bullying": "11.10%",
+        "Connected": "65.00%"
+    },
+    {
+        "Council": "Pyrenees",
+        "Bullying": "7.30%",
+        "Connected": "89.00%"
+    },
+    {
+        "Council": "South Gippsland",
+        "Bullying": "24.00%",
+        "Connected": "58.80%"
+    },
+    {
+        "Council": "Southern Grampians",
+        "Bullying": "5.20%",
+        "Connected": "90.90%"
+    },
+    {
+        "Council": "Stonnington",
+        "Bullying": "7.90%",
+        "Connected": "76.00%"
+    },
+    {
+        "Council": "Strathbogie",
+        "Bullying": "17.20%",
+        "Connected": "73.60%"
+    },
+    {
+        "Council": "Surf Coast",
+        "Bullying": "20.00%",
+        "Connected": "62.30%"
+    },
+    {
+        "Council": "Swan Hill",
+        "Bullying": "23.80%",
+        "Connected": "58.50%"
+    },
+    {
+        "Council": "Towong",
+        "Bullying": "13.90%",
+        "Connected": "71.80%"
+    },
+    {
+        "Council": "Wangaratta",
+        "Bullying": "25.90%",
+        "Connected": "52.30%"
+    },
+    {
+        "Council": "Warrnambool",
+        "Bullying": "14.70%",
+        "Connected": "60.10%"
+    },
+    {
+        "Council": "Wellington",
+        "Bullying": "22.40%",
+        "Connected": "66.50%"
+    },
+    {
+        "Council": "West Wimmera",
+        "Bullying": "20.00%",
+        "Connected": "52.80%"
+    },
+    {
+        "Council": "Whitehorse",
+        "Bullying": "15.50%",
+        "Connected": "65.00%"
+    },
+    {
+        "Council": "Whittlesea",
+        "Bullying": "17.30%",
+        "Connected": "62.50%"
+    },
+    {
+        "Council": "Wyndham",
+        "Bullying": "16.60%",
+        "Connected": "61.30%"
+    },
+    {
+        "Council": "Yarra",
+        "Bullying": "8.90%",
+        "Connected": "72.10%"
+    },
+    {
+        "Council": "Yarra Ranges",
+        "Bullying": "19.60%",
+        "Connected": "61.00%"
+    },
+    {
+        "Council": "Yarriambiack",
+        "Bullying": "16.90%",
+        "Connected": "69.30%"
+    }
+]

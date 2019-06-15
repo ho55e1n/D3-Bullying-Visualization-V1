@@ -1,0 +1,67 @@
+[
+  {
+    "Year": 2006,
+    "PrimaryGrade": "26.0%",
+    "SecondaryGrade": "31.0%"
+  },
+  {
+    "Year": 2007,
+    "PrimaryGrade": "22.9%",
+    "SecondaryGrade": "29.2%"
+  },
+  {
+    "Year": 2008,
+    "PrimaryGrade": "20.0%",
+    "SecondaryGrade": "25.9%"
+  },
+  {
+    "Year": 2009,
+    "PrimaryGrade": "18.5%",
+    "SecondaryGrade": "24.4%"
+  },
+  {
+    "Year": 2010,
+    "PrimaryGrade": "16.1%",
+    "SecondaryGrade": "22.3%"
+  },
+  {
+    "Year": 2011,
+    "PrimaryGrade": "14.5%",
+    "SecondaryGrade": "20.1%"
+  },
+  {
+    "Year": 2012,
+    "PrimaryGrade": "15.0%",
+    "SecondaryGrade": "19.8%"
+  },
+  {
+    "Year": 2013,
+    "PrimaryGrade": "14.9%",
+    "SecondaryGrade": "20.2%"
+  },
+  {
+    "Year": 2014,
+    "PrimaryGrade": "13.8%",
+    "SecondaryGrade": "18.4%"
+  },
+  {
+    "Year": 2015,
+    "PrimaryGrade": "15.0%",
+    "SecondaryGrade": "18.0%"
+  },
+  {
+    "Year": 2016,
+    "PrimaryGrade": "14.8%",
+    "SecondaryGrade": "17.6%"
+  },
+  {
+    "Year": 2017,
+    "PrimaryGrade": "19.5%",
+    "SecondaryGrade": "20.8%"
+  },
+  {
+    "Year": 2018,
+    "PrimaryGrade": "15.9%",
+    "SecondaryGrade": "17.5%"
+  }
+]

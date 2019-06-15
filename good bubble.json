@@ -1,0 +1,60 @@
+[
+  {
+    "children": [
+      {
+        "name": "Melbourne",
+        "Count": 20,
+        "Grade": "Primary & Secondary",
+        "Area type": "City"
+      },
+      {
+        "name": "Yarra",
+        "Count": 13,
+        "Grade": "Secondary",
+        "Area type": "City"
+      },
+      {
+        "name": "Port Phillip ",
+        "Count": 13,
+        "Grade": "Secondary",
+        "Area type": "City"
+      },
+      {
+        "name": "Stonnington",
+        "Count": 13,
+        "Grade": "Secondary",
+        "Area type": "City"
+      },
+      {
+        "name": "Whitehorse",
+        "Count": 8,
+        "Grade": "Primary",
+        "Area type": "City"
+      },
+      {
+        "name": "Glen Eira",
+        "Count": 7,
+        "Grade": "Secondary",
+        "Area type": "City"
+      },
+      {
+        "name": "Banyule",
+        "Count": 6,
+        "Grade": "Primary",
+        "Area type": "City"
+      },
+      {
+        "name": "Boroondara",
+        "Count": 5,
+        "Grade": "Primary",
+        "Area type": "City"
+      },
+      {
+        "name": "Nillumbik ",
+        "Count": 5,
+        "Grade": "Primary ",
+        "Area type": "Shire"
+      }
+    ]
+  }
+]
